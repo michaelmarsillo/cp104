@@ -1,0 +1,409 @@
+founder of psychology - wilhem wundt
+
+strcuturalism - Titchener, all exeperience could be reduced to basic elements like chemistry
+
+functionalism - William James, how mental processes function - not structure how do we use our mental processes to adapt/survive
+
+gestalt - Max wertheimer, the whole is better than the sum of its parts - looks at the bigger picture rather than the breakdown
+
+psychology is considered a science
+
+goals of psychology 
+	description - what
+	explanation - why 
+	prediciton - when will this happen
+	control - manipulate or change outcomes 
+
+methods of descriptive study: observation
+	naturalistic - watching kids playing at the park
+	laboratory - lab testing or experimenting
+
+case study is a selected or limited group of people and have a low sample size and low generalizability
+
+derive a hypothesis - a prediction
+
+independent varible = the one that the experimenter changes
+dependent variable = the one that the experimentor measures/records
+
+experimental group receives the manipulation
+control group does not get the manipulation
+
+limitations = selection bias in the study (ex. similar group of people not enough diversity)
+fix for selection bias = random selection or random assignment ( being in control groupd or experimental group)
+
+placebo effect - (feel the effects of experimentation without acctually experienceing anything)
+double blind technique - when both the expermentor and the experimented dont know what the experiment entitles until it is time
+
+hawsthorne effect - acting differently because you know you are being experimented
+
+analyzing data - 2 approaches
+	descriptive - makes a summary and shares information about our findings
+	inferential - infers a conclusion based on the experiment data
+
+measure variability - not everyone will preform the same, variability gives you a spread out of the scores from the mean 
+
+little variability - all bunched up close to the mean (average)
+lots of variability - parabolic results
+standard deviation - measure of the disperion or scatter of results
+
+measures of central tendencies
+	mean, median, and mode
+
+correlation - how two things relate to eachother
+	positive - one varible goes up so does the other (study time and grades)
+	negative - one varible goes up the other goes down (porn usage and mental health)
+
+inferential statistics - analyzing data using statstical sets that allow the researcher to make a conclusion about whether a hypothesis was supported by the results ("reliable or "not important")
+
+neurons - cells that carry messages throughout the nervous sytem
+
+types of neurons
+	afferent - senes to the brain
+	efferent - brain to the senses
+	interneurons - carry information between neurons
+
+anatomy
+cell body
+dendrites
+axons
+myelin sheath
+nodes of ranvier
+terminal buttons
+
+glials cells act like glue that hold neurons together
+
+all or none law - neurons either fire or they dont
+
+synapse - where neurons meet
+axon terminal
+synaptic vesicles
+sacs
+stores chemicals
+neurotransmitters
+transmit info between neurons
+synaptic cleft
+gap
+neurons dont touch
+
+neurotransmitter - think of a lock and key
+
+agonist - blakc widow spider poison, excites - increases firing
+antagonist curare, epposes - decreases firing
+
+monoamine neurotransmitters
+dopamine - feel good, excites and inhibits mood, too much = schizo, too little = parkinsons
+norepinephrine - sympathetic nervous sytem - arousal/alertness (FEAR!!!)
+serotonin - regulates mood, sleep and appetite
+
+meds to treat monoamine disorders
+anti depressants 
+MAO inhibitors
+SSRIs
+
+neurotransmitters
+GABA - sleep, reduces arousal
+Glutamate - learning, memory and other functions
+Endorphins - relieve pain and produce feelings of pleasure
+
+nervous system 
+central nervous system 
+brain
+spinal cord
+peripheral nervous sytem 
+somatic nervous system - emotions and response
+autonomic nervous system - auto functions like breathing
+sympathetic nervous system - firing 
+parasympathetic nervous sytem - calming
+
+the brain
+hindbrain - handle evryhting automatic
+medulla: closest to spinal cord controls heartbeat, breathing, blood pressure)
+cerebellum: deep convolutions, controls bodily balance and muscular coordination
+pons: swallowing, breathing, eyes, face 
+
+
+midbrain - reticular formation 
+regulates attention and alertness
+substantia nigra connects hind with fore brain 
+procudes dopamine
+
+
+forebrain - subcortical and cortex
+thalmus: relay system for all sensory information 
+hypothalumus: regulation of basic biological needs ( 4 F's: fighting, fleeing, feeding, fucking)
+pituitary gland: hormone creation, growth, and reproduction
+limbic system: amygdala - emotion/fear, hippocampus - memory
+basal ganglia: reward centre
+cerebral cortex (wraps around top of brain) - language, memory, thinking
+cerebrum: made up of left and right hemispheres
+lobes
+frontal - planning and movement
+parietal - sense of touch, position in space
+occipital - visual cortex (not in depth images)
+temporal - primary auditory cortex
+
+corpus collosum connects the two hemispheres
+
+sides of the brain:
+left - language, mathematics, analytical, sequential
+right - visual, spatial, holistic, "hear", creativity, intuition
+
+think of it as things happening on the left of your body are controlled by the opposite side of your brain
+
+broca's area - speech
+wernicke's area - language comprehension
+
+plasticity - ability of the brain to reconstrcut and repair from damage
+
+imaging techniques
+EEG electroenephalogram: measures electrical activity in the brain - sticking the little things on your head
+CT scan: x-ray type images, may require dye
+MRI: magnetic resonance imaging, uses magnet scans and builds a 2d or 3d image, very clear
+Imaging PET: smalls does ot radioactive substance injected, different colours indicate different tissue
+Imaging fMRI: based on the amount of oxygen in the blood, uses magnets as well
+
+what is learning? - process by which experience produces a relatively enduring change in behaviour or capabilities
+
+Behaviourism - focused on how organisms learn, processes by which experience influences behaviour
+
+condition - classical (pavlovian or respondent), operant (skinnerian or instrumental)
+
+classical conditioning - learned by association based on your responses to occurring stimuli, some things initiate a response
+UCS unconditioned stimulus - elicits a reflexitive or innate response without prior learning (food, drooling)
+UCR = unconditioned response 
+CS = conditioned stimulus - through association with ucs becomes conditioned to a response
+CR = conditioned response
+
+pavlov studied dog exeriment - everytime he fed the dogs he would ring a bell and then the dogs started associating the bell with food and began salivating
+
+acquisiton = training the learned response, forward short, simultaneous, backward
+extinction = reducing or removing the learned behaviours
+spontaneous recovery = after a while the conditioned response comes back after not affecting the subject
+generalization = stimuli similar to intial CS but not the same elicit a CR
+discrimination = CR occurs to one stimuls but not another
+
+higher order condition has 2 cs's
+
+operant conditioning - behaviour changes as a result fo the consequnces follwing unlike classical in which the behaviour changes due to stimuli
+throndikes law of effect - response followed by a satisfying consequence becomes more likely to occur and the opposite for unsatifying
+
+positive reinforcement increases the behaviour, adds to the environment ex given candy for a deed
+positive punishment descrease behviour, add to environment in forms of a slap or punch
+
+negative reinforcement increase behviour, remove from environment ex buzzer 
+negative punishment decrease behaviour, remove from environment ex time out, no tv
+
+continous reinforcement - every response is reinforced
+partial reinforcement - only some responses are reinforced
+
+schedules 
+ratio - certain percentage of responses are reinforced
+interval - certain amount of time must elapse between reinforcements
+fixed - reinforcement occurs after a fixed number of responses or fixed time interval 
+variable - reinforcement occurs after an average number of responses or passage of time
+
+consciousness = moment to moment awareness of ourselves and environment
+subjective and private - others cannot knw your reality
+dynamic - changing
+self reflective - aware of being aware
+
+blindsight - a condition where people are still able to process visual stimuli while being blind because of damage to their visual cortex
+inattentional blindessness - missing something obvious because you are so focused on one thing
+
+circadian rythms - the natural sleep wake cylce, neurons are active during daytime and melatonin is secreted, then become inactive at night and meltonin is released
+
+sleeping - cycle through stages every 90 minutes
+4 types of waves - aplha, relaxed - beta, active - theta, light sleep - delta, deep sleep
+
+stages of sleep 
+stage 1: light sleep , theta waves, experience body jerks
+stage 2: sleep deepens, muscles relax, burst of brain activity
+stage 3: regular appearance of delta waves
+stage 4: delta waves dominate and can now cycle through other stages
+REM sleep - rapid eyemovement, high arousal, vivid dreams, heart rate increases, erections
+
+the older we get the less sleep we need, time in stages 3 and 4 declines
+
+sleep deprivation - not sleeping enough, impacts mood and cognitive abilities, takes several nights to recover
+
+sleep disorders:
+insomnia - cant fall asleep
+sleep apnea - breathing stops and you wake up
+narcolepsy - suddenly fall asleep randomly
+
+freuds psychoanalytical theory - wish fulfillment, gratification of unconscious desires / needs 
+hypnosis - state of being controlled - no scientific evidence to support this
+
+agonists - drug binds to receptor and activates it
+antagonists - reduces neurons ability to sythesize or release transmitter
+
+drug tolerance - needing more of the drug to achieve same effect
+compensatory responses - reactions opposite to that of the drugs intended use
+withdrawal - urge for drug afetr stopping use
+
+types of drugs:
+depressants - decrease nervous sytem activity, reduce anxiety (alcohol)
+stimulants - increase natural firing and arouse nervous system, increase blood pressure, heart rate, and alertness (cocaine)
+opiods - opium poppy, ex morphine, pain killers, mood chnages and creates euphoric state, highly addictive
+hallucinogens - many derived from natural sources, blur boundaries between reality and fantasy
+
+personality - distinctive and relatively enduring ways of thinking, feeling, and acting, that characterize a perons's response to situations
+
+personality assessment - need explicit coding system , specific behaviour, frequency, specific situations
+personality scales - uses standard questions based on agreen upon scoring key, collects lot of data, validity of aswsers vary
+
+traits - identifying the  number of traits, are they from environemtn or genetic
+modern testing ahs 5 personality traits - NEO-PI-R, neuroticism, extraversion, opennes, agreeableness, conscientiousness
+
+summoning trait ideas - stables, observable, genetic/environmental
+
+psychdynamic - what people say and do are the tip of the iceberg, motives and desires lie beneath
+
+freud and psycholanalytical approach - how much of your activities and thoughts do you control? how much is automatic? sussy theory, sexuality is a primary drive and children have sexual feelings
+
+conscious - aware and attention 
+preconscious - events out of awareness that can be recalled
+unconscious - primary motivating force of behaviour, contains repressed memories, instincts and wihses that have never been allowed into consciousness
+
+personality has 3 systems:
+id - devil on the shoulder, temptations
+ego - the logical, rational, realistic part of the personality
+superego - morality aspect of personality, intially reflects parents' expectations
+
+ego cannot always control id and complications can arise
+defence mechanisms - individual is unaware of them, ex repression, revealed in your dreams and slips of the tongue
+
+freud's psychosexual development - important factor influencing personality is the sex instinct
+
+unconscious processes - nonconscious processes ahve been demonstrated
+psychosexual stages - concept of childhood sexuality rejected
+
+critics - freud overemphasized infantile sexuality, childhood experiences were important but not sole determinants
+
+humanists - the optimists
+humanistic approaches - maslow, sees other theories as a deficit based model, what about seeking things for self gain
+
+carl rogers self theory - consistent set of perceptions and beliefs about oneself
+development of self-concept - child needs unconditional positive regard to develop self worth, "i love you you but i dont like what you did"
+narcissim - "all about me" driven to maintain overly-high, positive self-concept
+
+trephining to realse demons, cutting a hole in the skull
+
+assessing abnormal behaviour - stistical definition, frequency, how common are certain traits?
+
+mental illness 
+neurosis - causes personal distress and some impairment in functioning, stil in check with reality
+psychosis - severe, lose touch of reality, delusions, hallucinations
+
+types of psychological disorders:
+anxiety - unrealistic anxiety, feeling something bad is about to happen
+types of anxiety disorders:
+generalized axiety disorder - excessive anxiety and worry 6 months or more
+panic disorder - recurrent, unpredictable anxiety attacks, pounding heart, uncontrollable trembling
+phobias - persistent, irrational fear of an object, situation, or activity
+ocd - obessions, persistent, recurring, involuntary thoughts, images, or impulses that invade consciousness
+
+depression
+emotional symptoms - sadness, hopelessness, anxiety
+cognitive symptoms - negative cognitions about self, world
+motivational symptoms - loss of interest, lack of drive
+somatic symptoms - loss of appetite, energy, weight gain
+
+major depression can lead to suicidal thoughts, cause delusions or hallucinations
+
+bipolar - experiences two radically different moods, very high highs, and terrible lows
+
+schizophrenia:
+delusions - paranoid, think others are talking to them
+speech disturbances - make up words, string sounds
+disorders of thought - sudden interruption, hard to link logical thoughts
+hallucinations - auditory and visual
+emotional disturbances - incongruent and innapropriate
+behaviours - bizzare, disorganized, can act violently
+
+etiology - the study of causation of diseases
+
+personality disorders -  begins in childhood or adolescence, tend to have problems in their relationships and at work
+
+odd behviour - lacks social skills, odd ideas, different wardrobe, poor social relationships
+
+antisocial personality disorder - disregard for others, exploit others, lie - no remorse
+anxious/fearful - dependent on others, clingy, fear abandonment
+
+dissociative identity - more then one personality, different memories, different behaviours
+
+somatoform disorders - belief that you are ill or disabled
+conversion disorder - condition in which a person experiences physical and sensory problems, such as paralysis, numbness, blindness, deafness or seizures, with no underlying neurologic pathology
+
+catharsis - explore feelings that have been bottled up for fear or punishment/retaliation
+gestalt therapy - bring feelings, wishes, and thoughts into awareness to feel whole again
+person centred therapy - all about the person and promoting healthy growth in the individual
+cognitive therapies - change the way you think
+
+aaron beck and albert elilis - rational emotive therapy, people hold beliefs that cause problems to be seen or interpreted in the world 
+
+behavioural therapies - maladaptive behaviours can be unlearned through claddical and operant conditioning
+
+exposure therapies - exposure, flooding, implosion, 
+
+aversion therapy - association of an unpleasant response with substance use 
+
+token economies - strengthend desired behaviours, token given for disrable behaviours
+
+drug therapy - target neurotransmitters, antidepressants, anti-anxiety, mood stabilizers
+
+electroconvulsive therapy - useful in treating severe, persistent, depression (electrodes on your head) gives short shock causing a seziure
+possible memory loss or brain damage
+
+ 
+
+Other Stimulation Techniques 
+
+vagus nerve (longest nerve) - invasive, electrical pulse, impacts mood centres 
+
+ 
+
+transcranial magnetic stimulation coil – current, presented non-invasive 
+
+psychosurgery - mehtod of last resort, destorys or remove parts of the brain, permamnent
+
+when to seek therapy - severe emotional discomfort, unable to handle problems or life transition, thinking about, dreaming about, or responding to a traumatic, event with negative emotions 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

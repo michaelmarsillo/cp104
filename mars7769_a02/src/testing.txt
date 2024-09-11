@@ -1,0 +1,64 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Michael Marsillo
+ID:      169057769
+Email:   mars7769@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the total projected sales: 32000
+
+Projected Tax Report
+--------------------------
+Total sales:   $ 32000.00
+Annual tax:    % 18.50
+--------------------------
+Tax:           $ 5920.00
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter a positive two-deigit integer: 25
+
+The difference of the digits of 25 is -3
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 19621025
+
+The reformatted date: 1962/10/25
+
+-------------------------------------------------------
+t04
+--------------------------------------------------
+ Enter the number of flyers: 1400
+Enter the number of delivery people: 12
+
+
+Flyers per delivery person: 116
+Flyers left over: 8
+ 
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter foundation length: 4.0
+Enter foundation width: 2.0
+Enter foundation height: 0.6
+Enter wall height: 2.5
+Enter cost of concrete ($/m^3): 125
+Enter cost of concrete ($/m^2): 94
+
+Concrete needed for foundation (m^3): 4.80
+Cost of concrete: $600.00
+Bricks needed for walls (m^2): 30.00
+Cost of bricks: $2,820.00
+Total cost: $3,420.00
+
+-------------------------------------------------------

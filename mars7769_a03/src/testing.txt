@@ -1,0 +1,47 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Michael Marsillo
+ID:      169057769
+Email:   mars7769@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Enter the area in square feet: 100000.0
+The conversion of 100000.0 square feet to acres is equal to 2.295684113865932 acres.
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the width of the lawn in metres: 20.0
+Enter the length of the lawn in metres: 50.0
+Enter the speed of the lawn in minutes: 4.0
+The time required to mow the lawn is 250.0 minutes
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date in the format YYYYMMDD: 19621025
+(1962, 10, 25)
+
+
+-------------------------------------------------------
+t04
+--------------------------------------------------
+Enter the numerator of the first fraction: 1
+Enter the denominator of the first fraction: 2
+Enter the numerator of the second fraction: 3
+Enter the denominator of the second fraction: 4
+(3, 8, 0.375)
+ 
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter the time the object has fallen in seconds: 15
+The distance the object has fallen in metres is 1102.5
+-------------------------------------------------------
