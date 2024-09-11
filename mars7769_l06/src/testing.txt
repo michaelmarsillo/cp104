@@ -1,0 +1,96 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Michael Marsillo
+ID:      169057769
+Email:   mars7769@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter an integer: 123
+The result is 3844
+
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Enter the number of rows:6
+Enter the character you want the triangle drawn: $
+     $
+    $$$
+   $$$$$
+  $$$$$$$
+ $$$$$$$$$
+$$$$$$$$$$$
+
+-------------------------------------------------------
+t10
+-------------------------------------------------------
+Enter the calories burnt per minute: 3.9
+Enter the start time in minutes: 5
+Enter the end time in minutes: 30
+Enter the increments time in minutes: 5
+Calories burned after 5 minutes: 19.5
+Calories burned after 10 minutes: 39.0
+Calories burned after 15 minutes: 58.5
+Calories burned after 20 minutes: 78.0
+Calories burned after 25 minutes: 97.5
+Calories burned after 30 minutes: 117.0
+
+-------------------------------------------------------
+t12
+--------------------------------------------------
+Enter the GIC's initial value: 900
+Enter the number of years: 24
+Enter the percent increase value per year: 1.25
+Year       Value $
+------------------
+0             900.00
+1             911.25
+2             922.64
+3             934.17
+4             945.85
+5             957.67
+6             969.64
+7             981.77
+8             994.04
+9           1,006.46
+10          1,019.04
+11          1,031.78
+12          1,044.68
+13          1,057.74
+14          1,070.96
+15          1,084.35
+16          1,097.90
+17          1,111.62
+18          1,125.52
+19          1,139.59
+20          1,153.83
+21          1,168.26
+22          1,182.86
+23          1,197.65
+24          1,212.62
+1212.62
+
+ 
+
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+Enter the number of values to process: 5
+Next value: 1
+Next value: 2
+Next value: -3.4
+Next value: 4
+Next value: 5.3
+Minimum: -3.40
+Maximum: 5.30
+Total: 8.90
+Average: 1.78
+
+
+-------------------------------------------------------

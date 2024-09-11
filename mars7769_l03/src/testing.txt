@@ -1,0 +1,60 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Michael Marsillo
+ID:      169057769
+Email:   mars7769@mylaurier.ca
+Version: 2023-09-11
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+'I'm a Little Astronaut' by Jean Warren
+
+I'm a little astronaut
+    Flying to the moon.
+        My rocket is ready,
+        We blast off soon.
+I climb aboard
+    And close the hatch.
+        5-4-3-2-1, off we blast!
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter minimum: 38
+Enter maximum: 452
+The difference between 452 and 38 is 414
+
+-------------------------------------------------------
+t08
+-------------------------------------------------------
+Enter the amount of dirt (m^3):55.5
+Enter the amount of gravel (m^3):30.6
+Enter the amount of sand (m^3):112.8
+Material   Cubic Metres
+Dirt        55.5
+Gravel      30.6
+Sand       112.8
+Total      198.9
+
+-------------------------------------------------------
+t11
+------------------------------------------------------- 
+left----------------
+-------middle-------
+---------------right
+
+
+-------------------------------------------------------
+t15
+-------------------------------------------------------
+Integer as integer: 654321
+Integer as a float: 654321.000
+Decimal as a floating point: 654.320
+Phrase as a string: Hello World
+
+
+-------------------------------------------------------
